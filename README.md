@@ -19,8 +19,4 @@ Our project at Apollo Tyres leverages advanced technologies to predict and preve
 4. **User Interface**: A user-friendly GUI developed using Tkinter for easy interaction with the system.
 5. **Automation Control**: Integrates with PLCs to automate responses to detected tire jams, minimizing downtime.
 
-## Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/apollo-tyres-tire-jam-prevention.git
+---
